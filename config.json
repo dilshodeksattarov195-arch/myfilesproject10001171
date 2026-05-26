@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpecrypt",
+        "uuid": 4619595,
+        "checksum": "3a1ikh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
